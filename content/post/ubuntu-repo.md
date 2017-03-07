@@ -1,6 +1,6 @@
 +++
 title = "ubuntu repo"
-draft = true
+draft = false
 date = "2016-07-21T03:20:23+08:00"
 categories = [ "Other" ]
 tags = [ "APT", "repo" ]

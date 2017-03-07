@@ -1,5 +1,7 @@
 +++
 draft = false
+image = "img/onos-logo.png"
+showonlyimage = true
 date = "2016-07-11T03:10:32+08:00"
 title = "Build ONOS"
 categories = [ "ONOS" ]
